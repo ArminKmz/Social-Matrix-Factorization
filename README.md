@@ -1,6 +1,6 @@
 # Social-Matrix-Factorization
 
-Simple model for exploiting scoial networks data in recommenders system. 
+Simple model for exploiting scoial networks data in recommender systems.
 
 ## Model
 
