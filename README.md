@@ -22,7 +22,7 @@ Simple model for exploiting scoial networks data in recommender systems.
 </p>
   
 <br></br>
-<img src="https://latex.codecogs.com/svg.latex?R_{ij}"/> is estimated from predictive distribution approximated by varational infrence.
+<img src="https://latex.codecogs.com/svg.latex?R_{ij}"/> is estimated from predictive distribution approximated by varational infrence. See the doc for more information and derivations.
 
 ## Useage
 
